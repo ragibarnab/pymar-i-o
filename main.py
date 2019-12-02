@@ -53,4 +53,4 @@ def run(config_file):
 
 if __name__ == "__main__":
     config_path = os.path.join(os.path.dirname(__file__), 'config-feedforward')
-    run(config_path, checkpoint_path)
+    run(config_path)
