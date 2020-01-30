@@ -6,7 +6,7 @@ Inspired by SethBling's "MarI/O - Machine Learning for Video Games" video, I imp
 Instructions to run 
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 python -m retro.import rom/SuperMarioBros-Nes.nes
 python main.py 
 ```
